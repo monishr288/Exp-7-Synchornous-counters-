@@ -102,6 +102,9 @@ DOWN COUNTER:
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER:
 
+![UP TIME](https://github.com/monishr288/Exp-7-Synchornous-counters-/assets/147474049/a1f772b6-d5c3-4823-9bbb-8a70ff38eb4d)
+
+
 
 DOWN COUNTER:
 
