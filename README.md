@@ -84,11 +84,13 @@ DOWN COUNTER CODE:
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
-RTL UP COUNTER:
+UP COUNTER:
 
 ![UPCOUNTER RTL](https://github.com/monishr288/Exp-7-Synchornous-counters-/assets/147474049/344cbac9-e0ce-49bc-90a0-30dac6db863f)
 
+DOWN COUNTER:
 
+![DOWNCOUNTER RTL](https://github.com/monishr288/Exp-7-Synchornous-counters-/assets/147474049/4b02e83f-d735-4fe9-be35-a27815af1c70)
 
 
 
