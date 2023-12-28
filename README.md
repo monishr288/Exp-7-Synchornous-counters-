@@ -69,6 +69,10 @@ Developed by: R.Monish
 
 RegisterNumber:  212223220061
 
+UP COUNTER CODE:
+
+![UPCOUNTER CODE](https://github.com/monishr288/Exp-7-Synchornous-counters-/assets/147474049/2499280a-aa97-42e4-ada1-24802225867b)
+
 
 
 
