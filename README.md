@@ -120,7 +120,8 @@ UP COUNTER:
 ![UP TT TABLE](https://github.com/monishr288/Exp-7-Synchornous-counters-/assets/147474049/4d17e969-2ad7-4042-bdd3-f8e9811c7627)
 
 
-DOWN TIME:.
+DOWN TIME:
+![DOWN TT](https://github.com/monishr288/Exp-7-Synchornous-counters-/assets/147474049/c5f2437f-333b-4f7d-bc0d-1f9ba49a3180)
 
 
 
