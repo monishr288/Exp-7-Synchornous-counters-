@@ -108,6 +108,9 @@ UP COUNTER:
 
 DOWN COUNTER:
 
+![THE REAL DOWN TIME](https://github.com/monishr288/Exp-7-Synchornous-counters-/assets/147474049/93387819-0a44-4b73-98ff-cb480321febd)
+
+
 
 
 
